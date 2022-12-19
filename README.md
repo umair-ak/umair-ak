@@ -1,4 +1,4 @@
-
+[![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
 <h1 align="center">Hi 👋, I'm Umair Ali Khan</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align = "right" alt = "coding" width = "400" src = "https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"
@@ -30,3 +30,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umiar-ak&show_icons=true&locale=en&layout=compact" alt="umiar-ak" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umiar-ak&show_icons=true&locale=en" alt="umiar-ak" /></p> -->
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umair-ak&show_icons=true&locale=en&layout=compact" alt="kimjayden" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umair-ak&show_icons=true&locale=en" alt="peter-kimanzi" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umair-ak&" alt="peter-kimanzi" /></p>
