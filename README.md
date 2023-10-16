@@ -7,11 +7,11 @@
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umiar-ak" alt="umiar-ak" /></a> </p> -->
 
 
-- 🌱 I’m currently learning **Node JS**
+- 🌱 I’m currently learning **React Js**
 
 - 👯 I’m looking to collaborate on **web projects, python projects**
 
-- 💬 Ask me about **html, CSS, Java Script, C++, Python**
+- 💬 Ask me about **HTML, CSS, JavaScript, C++, Python**
 
 - 📫 How to reach me **uak1911@gmail.com**
 
